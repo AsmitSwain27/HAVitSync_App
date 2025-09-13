@@ -1,5 +1,4 @@
-
-# 🏋️‍♂️ HAVitSync App 🥗💤
+# <p align="center">🏋️‍♂️ HAVitSync App 🥗💤</p>
 
 Welcome to **HAVitSync App**, a modern Flutter application to help you take control of your health and wellness journey. Track workouts, meals, and sleep—all in one beautiful, intuitive interface.
 
