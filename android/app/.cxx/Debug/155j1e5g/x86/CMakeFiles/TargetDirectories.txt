@@ -1,0 +1,2 @@
+/Users/sudhansupradeepdas/my_Projects/fitness/android/app/.cxx/Debug/155j1e5g/x86/CMakeFiles/edit_cache.dir
+/Users/sudhansupradeepdas/my_Projects/fitness/android/app/.cxx/Debug/155j1e5g/x86/CMakeFiles/rebuild_cache.dir
