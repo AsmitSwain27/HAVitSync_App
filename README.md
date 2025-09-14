@@ -6,15 +6,12 @@ Welcome to **HAVitSync App**, a modern Flutter application to help you take cont
 - [Features](#-features)
 - [Screenshots](#-screenshots)
 - [Links](#-links)
-- [Getting Started](#-getting-started)
+- [Getting Started](#-gettingStarted)
 - [Contributing](#-contributing)
 
 - **Full Body Tracker** 🏋️‍♀️: Track your fitness progress and monitor your workouts effectively.
 - **Meal Tracker** 🍎: Keep a log of your meals and ensure a balanced diet.
 - **Sleep Tracker** 😴: Monitor your sleep patterns to maintain a healthy lifestyle.
-
----
-
 
 ## 🚀 Features
 - **Stunning UI:** Intuitive and visually appealing design for a seamless experience.
@@ -23,9 +20,6 @@ Welcome to **HAVitSync App**, a modern Flutter application to help you take cont
 - **Open Source:** Contributions are welcome!
 
 > **Note:** This app currently includes only the UI implementation. Backend and data sync features are planned for future updates.
-
----
-
 
 ## 📸 Screenshots
 
@@ -56,43 +50,37 @@ Here are some glimpses of the app in action:
   <img src="images/Screenshot_1733048276.png" width="300px" />
 </div>
 
----
-
-
 ## 🔗 Links
 - **GitHub Repository:** [HAVitSync App](https://github.com/AsmitSwain27/HAVitSync_App.git)
-
----
-
 
 ## 🛠️ Getting Started
 
 To set up and run the app locally:
 
 1. **Clone this repository:**
-   ```bash
-   git clone https://github.com/AsmitSwain27/HAVitSync_App.git
-   ```
+```bash
+git clone https://github.com/AsmitSwain27/HAVitSync_App.git
+```
 2. **Navigate to the project directory:**
-   ```bash
-   cd HAV_app
-   ```
-3. **Install dependencies:**
-   ```bash
-   flutter pub get
-   ```
-4. **Run the app:**
-   ```bash
-   flutter run
-   ```
+```bash
+cd HAVitSync_app
+```
+4. **Install dependencies:**
+```bash
+flutter pub get
+```
+5. **Run the app:**
+```bash
+flutter run
+```
 
----
+## 📄 License
+
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/AsmitSwain27/HAVitSync_App/issues) or submit a pull request.
-
----
 
 _Made with ❤️ using Flutter & Dart._
 
